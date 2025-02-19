@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nikhil Kumar 👋
 
 I'm a **Full Stack Developer** with a passion for building modern, scalable, and user-friendly web applications. I specialize in frontend development with **React.js**, **Tailwind CSS**, **Ant Design**, and **Framer Motion**, and backend development with **NestJS** and **MongoDB**.
 
