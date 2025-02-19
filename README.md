@@ -27,44 +27,39 @@ I'm a **Full Stack Developer** with a passion for building modern, scalable, and
 
 ## 🚀 Featured Projects
 
-### 1. [Project Name 1](https://github.com/your-username/project-1)
-- **Description**: A full-stack web application built with React, Tailwind CSS, and NestJS.
-- **Features**: User authentication, real-time data updates, and responsive design.
-- **Tech Stack**: React, Tailwind CSS, NestJS, MongoDB.
+### 1. Ecommerce website
+- **Description**: A full-stack web application built with React, Tailwind CSS, and ExpressJS.
+- **Features**: User authentication, real-time data updates, and responsive design. Inventory management sytem, point on sale system, product catalog, image optimization etc.
+- **Tech Stack**: React, Tailwind CSS, ExpressJS, MongoDB.
 
-### 2. [Project Name 2](https://github.com/your-username/project-2)
-- **Description**: A modern dashboard with interactive animations using Framer Motion.
-- **Features**: Dynamic charts, drag-and-drop functionality, and dark mode.
-- **Tech Stack**: React, Ant Design, Framer Motion.
+### 2. Omnicassion
+- **Description**: A Full Stack Event management platfom built with React, Tailwind CSS, NestJS and MongoDB.
+- **Features**: Dynamic charts, Admin, vendor and manager dashboards, Vendor Profile, story upload, book vendor, payment gateway (Razorpay).
+- **Tech Stack**: React,Tailwind CSS, Ant Design,ChartJS, Razorpay, NestJS, MongoDB,.
 
 ---
 
 ## 🌱 What I'm Currently Learning
-- Exploring **GraphQL** for efficient API queries.
+- Exploring **Microservices** for efficient Backend Functionality.
 - Improving my skills in **TypeScript** for type-safe development.
 - Learning **Docker** for containerization and deployment.
 
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
+- **Email**: [nikhil97798@gmail.com](mailto:your.email@example.com)
+- **LinkedIn**: [www.linkedin.com/in/nikhil-kumar-6b2713297](https://linkedin.com/in/your-profile)
+- **Instagram** [https://www.instagram.com/its.nikhil_2247]
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil2247&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2247&layout=compact&theme=radical)
 
 ---
 
 ## 💬 Fun Fact
-When I'm not coding, I love [your hobby, e.g., playing guitar, hiking, or gaming]! 🎸
-
----
-
-⭐️ Feel free to explore my repositories and don't forget to star if you find something interesting! ⭐️
+When I'm Free, I love [Exploring new tech stack, finding different methods to code effeciently]!
