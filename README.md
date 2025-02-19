@@ -31,7 +31,11 @@ I'm a **Full Stack Developer** with a passion for building modern, scalable, and
 
 ---
 
-![GitHub Contribution Chart](https://github-readme-contribution-grid-snake.vercel.app/api?username=Nikhil2247&theme=radical)
+![GitHub Contribution Chart](https://ghchart.rshah.org/Nikhil2247)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikhil2247/github-readme-contribution-grid-snake/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
 
 
 ## 🚀 Featured Projects
