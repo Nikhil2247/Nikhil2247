@@ -62,6 +62,8 @@ I'm a **Full Stack Developer** with a passion for building modern, scalable, and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2247&layout=compact&theme=radical)
 
+![Full-Year Commits](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil2247&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
 ---
 
 ## 💬 Fun Fact
