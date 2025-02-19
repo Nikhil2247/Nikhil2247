@@ -25,6 +25,9 @@ I'm a **Full Stack Developer** with a passion for building modern, scalable, and
 
 ---
 
+![GitHub Contribution Chart](https://ghchart.rshah.org/Nikhil2247)
+
+
 ## 🚀 Featured Projects
 
 ### 1. Ecommerce website
@@ -47,17 +50,17 @@ I'm a **Full Stack Developer** with a passion for building modern, scalable, and
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [nikhil97798@gmail.com](mailto:your.email@example.com)
-- **LinkedIn**: [www.linkedin.com/in/nikhil-kumar-6b2713297](https://linkedin.com/in/your-profile)
-- **Instagram** [https://www.instagram.com/its.nikhil_2247]
+- **Email**: [nikhil97798@gmail.com]
+- **LinkedIn**: [www.linkedin.com/in/nikhil-kumar-6b2713297]
+- **Instagram**: [https://www.instagram.com/its.nikhil_2247]
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil2247&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil2247&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2247&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil2247&layout=compact&theme=radical)
 
 ---
 
